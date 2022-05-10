@@ -29,4 +29,12 @@ describe('Submit feedback', () => {
       screenshot: 'data:image/png;base64/anateste',
     })).rejects.toThrow();
   })
+
+  it('should not be able to submit a feedback with screenshot invalid', async () => {
+    await expect(submitFeedback.execute({
+      type: 'BUG',
+      comment: 'example comment',
+      screenshot: 'teste.jpg',
+    })).rejects.toThrow();
+  })
 }) 
