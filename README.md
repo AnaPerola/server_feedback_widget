@@ -22,6 +22,10 @@
 
 Esse projeto é um Widget (elemento de interação) de Feedback que pode ser utilizado em qualquer aplicação que tenha o interesse em coletar o feedback do usuário que está utilizando o aplicação.
 
+- Projeto focado nos princípios de SOLID
+## 🔗 Disponivel em:
+
+Você pode utilizar a API, está aqui: https://serverfeedbackwidget-production-2223.up.railway.app/
 ## 🚀 Técnologias
 
 - [Node](https://nodejs.org/en/)
@@ -45,18 +49,21 @@ Esse projeto é um Widget (elemento de interação) de Feedback que pode ser uti
 
 #
 
-## 💡 Este projeto é divido em três partes:
+ 💡 **Este projeto é divido em três partes:**
 
-### 1. Frontend (https://github.com/AnaPerola/web_feedback_widget)
-### 2. Backend (Projeto atual)
-### 3. Mobile (https://github.com/AnaPerola/mobile_feedback_widget)
-
+1. Frontend (https://github.com/AnaPerola/web_feedback_widget)
+2. Backend (Projeto atual)
+3. Mobile (https://github.com/AnaPerola/mobile_feedback_widget)
 
 ⚠️ Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
 #
 
 ## 🔧 Iniciando o projeto
+
+### Rotas da aplicação:
+
+- **`POST /feedbacks`**: Rota para cadastrar um novo feedback. O corpo da requisição deve conter as informações do feedback a ser cadastrado, sem o ID (gerado automaticamente pelo servidor).
 
 1 - Clone o projeto
 ```console
@@ -81,7 +88,6 @@ Execute o comando
 ```console
 $ npm run test
 ```
-
 #
 
 <div align="center" style="display:flex; padding:5px; ">
