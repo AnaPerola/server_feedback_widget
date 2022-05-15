@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150em" src="https://github.com/AnaPerola/web_feedback_widget/main/assets/new.png" />
+  <img height="150em" src="https://github.com/AnaPerola/web_feedback_widget/blob/main/assets/new.png" />
 </div>
 
 <p align="center">
