@@ -61,6 +61,10 @@ Você pode utilizar a API, está aqui: https://serverfeedbackwidget-production-2
 
 ## 🔧 Iniciando o projeto
 
+### Rotas da aplicação:
+
+- **`POST /feedbacks`**: Rota para cadastrar um novo feedback. O corpo da requisição deve conter as informações do feedback a ser cadastrado, sem o ID (gerado automaticamente pelo servidor).
+
 1 - Clone o projeto
 ```console
 $ git clone git@github.com:AnaPerola/server_feedback_widget.git
