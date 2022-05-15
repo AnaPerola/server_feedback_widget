@@ -22,6 +22,8 @@
 
 Esse projeto é um Widget (elemento de interação) de Feedback que pode ser utilizado em qualquer aplicação que tenha o interesse em coletar o feedback do usuário que está utilizando o aplicação.
 
+- Projeto focado nos princípios de SOLID
+
 ## 🚀 Técnologias
 
 - [Node](https://nodejs.org/en/)
