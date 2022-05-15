@@ -45,12 +45,11 @@ Esse projeto é um Widget (elemento de interação) de Feedback que pode ser uti
 
 #
 
-## 💡 Este projeto é divido em três partes:
+ 💡 **Este projeto é divido em três partes:**
 
-### 1. Frontend (https://github.com/AnaPerola/web_feedback_widget)
-### 2. Backend (Projeto atual)
-### 3. Mobile (https://github.com/AnaPerola/mobile_feedback_widget)
-
+1. Frontend (https://github.com/AnaPerola/web_feedback_widget)
+2. Backend (Projeto atual)
+3. Mobile (https://github.com/AnaPerola/mobile_feedback_widget)
 
 ⚠️ Tanto o Frontend quanto o Mobile precisam que o Backend esteja sendo executado para funcionar.
 
@@ -81,7 +80,6 @@ Execute o comando
 ```console
 $ npm run test
 ```
-
 #
 
 <div align="center" style="display:flex; padding:5px; ">
