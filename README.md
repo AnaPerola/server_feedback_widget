@@ -23,7 +23,10 @@
 Esse projeto é um Widget (elemento de interação) de Feedback que pode ser utilizado em qualquer aplicação que tenha o interesse em coletar o feedback do usuário que está utilizando o aplicação.
 
 - Projeto focado nos princípios de SOLID
-
+#
+## 🔗 Disponivel em:
+Você pode utilizar a API, está aqui: https://serverfeedbackwidget-production-2223.up.railway.app/
+#
 ## 🚀 Técnologias
 
 - [Node](https://nodejs.org/en/)
