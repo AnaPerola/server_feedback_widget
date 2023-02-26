@@ -132,4 +132,5 @@ $ npm run test
 _juntamente com a Rocketseat no evento *NLW Return*_
 
 ---
+ ✅ Concluído
 ##### ⭐ Marque esse projeto com uma estrela
